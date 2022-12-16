@@ -1,0 +1,15 @@
+_delai_ms: CODE, 798 0 58
+_init: CODE, 946 0 32
+_binary_ascii: CODE, 460 0 276
+_main: CODE, 912 0 34
+_send_EUSART1: CODE, 1030 0 16
+_send_EUSART2: CODE, 1046 0 16
+_get_clav: CODE, 856 0 56
+_init_interrupt: CODE, 1062 0 14
+__initialization: CODE, 1076 0 0
+_init_EUSART: CODE, 736 0 62
+_isr_clav: CODE, 8 0 164
+_LCD_send_cmd: CODE, 1004 0 26
+_LCD_send_data: CODE, 978 0 26
+_init_aff_lcd: CODE, 176 0 284
+Total: 1064

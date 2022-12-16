@@ -1,0 +1,12 @@
+_delai_ms: CODE, 720 0 58
+_init: CODE, 834 0 32
+_binary_ascii: CODE, 444 0 276
+_main: CODE, 918 0 18
+_get_clav: CODE, 778 0 56
+_init_interrupt: CODE, 936 0 14
+__initialization: CODE, 950 0 0
+_isr_clav: CODE, 8 0 148
+_LCD_send_cmd: CODE, 892 0 26
+_LCD_send_data: CODE, 866 0 26
+_init_aff_lcd: CODE, 160 0 284
+Total: 938

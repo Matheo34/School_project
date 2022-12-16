@@ -1,2 +1,2 @@
 # School_project
-That my work project on PIC18
+That my school project on PIC18

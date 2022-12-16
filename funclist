@@ -1,0 +1,17 @@
+_delai_ms: CODE, 129690 0 58
+___awdiv: CODE, 130350 0 188
+_init: CODE, 129442 0 12
+_LCD_clear: CODE, 129482 0 52
+_init_can: CODE, 129638 0 52
+___awmod: CODE, 130182 0 168
+_main: CODE, 129748 0 90
+_affichage_can: CODE, 130538 0 250
+_analogtodigit: CODE, 129534 0 52
+__initialization: CODE, 129436 0 0
+___lwdiv: CODE, 129930 0 108
+_I2C_Init: CODE, 129454 0 28
+___lwmod: CODE, 129838 0 92
+_LCD_send_data: CODE, 129586 0 52
+_I2C_write: CODE, 130038 0 144
+_init_aff_lcd: CODE, 130788 0 284
+Total: 1630
